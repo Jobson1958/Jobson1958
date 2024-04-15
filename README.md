@@ -1,6 +1,7 @@
 ### Olá pessoal! Eu sou o Jobson
 - 🔭 Hoje trabalhando com fronte-end
 - 🌱 Estudando Spring REST
+- Atualmente vendo as tecnologias Low-code com o OutSystem. Muitissimo prático e envolvente.
 - 😄 Pronomes: Ele /Dele
 
 <div>
